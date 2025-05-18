@@ -17,10 +17,14 @@ This repository contains a deep learning project implementing three powerful CNN
 
 ## 📂 Repository Structure
 ```bash
-├── notebook/
+├── notebooks/
+│   └── cnn_classification.ipynb      # Main Jupyter notebook with model training and evaluation
 ├── testing_scripts/
-│ └── test.py # Script for testing trained models on new data
-├── README.md 
+│   ├── test.py                       # Script for testing trained models on new data
+│   ├── output/                       # Folder where CSV results will be saved
+│   ├── models/                       # Folder where trained models are saved
+│   └── Test/                        # Folder where test photos should be placed
+├── README.md  
 ```
 ## 🏆 Result
 
