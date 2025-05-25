@@ -1,6 +1,6 @@
 # 🧠 CNN-Based Image Classification Project
 
-This repository contains a deep learning project implementing three powerful CNN architectures for multi-class image classification.
+This repository contains a deep learning project implementing three powerful CNN architectures layer by layer for multi-class image classification.
 
 ## 🚀 Project Overview
 
@@ -28,7 +28,7 @@ This repository contains a deep learning project implementing three powerful CNN
 ```
 ## 🏆 Result
 
-Achieved **97.423% accuracy** on 2484 unseen test samples and ranked **1st (tied)** on the Ain Shams CS department Kaggle leade
+Achieved **97.423% accuracy** on 2484 unseen test samples and ranked **1st (tied)** on the Ain Shams CS department Kaggle leaderboard
 ## 📋 How to Use
 
 1. Open and run the notebook in the `notebooks/` folder to train and evaluate models.  
